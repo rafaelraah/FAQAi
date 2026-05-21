@@ -179,6 +179,11 @@ Este projeto foi criado para estudos sobre:
 
 ---
 
+# 📄 Deploy Hugging Face Spaces
+ - https://huggingface.co/spaces/rafaelrdn/FAQAi
+
+---
+
 # 📄 Licença
 
 Projeto desenvolvido para fins de estudo e aprendizado.
